@@ -438,7 +438,7 @@
   {
     "title": "AWS Simple HTTP Endpoint example in NodeJS with Typescript",
     "name": "aws-node-rest-api-typescript-simple",
-    "description": "This template demonstrates how to make a simple REST API with Node.js and Typescript running on AWS Lambda and API Gateway using the Serverless Framework v1.",
+    "description": "This template demonstrates how to make a simple REST API with Node.js and Typescript running on AWS Lambda and API Gateway using the Serverless Framework v3.",
     "githubUrl": "https://github.com/serverless/examples/tree/master/aws-node-rest-api-typescript-simple",
     "framework": "v1",
     "language": "node",
